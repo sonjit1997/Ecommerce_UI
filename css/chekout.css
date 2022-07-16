@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mtext{
+    color: white;
+    background-color: rgb(20, 94, 20);
+}
+.col-8{
+    padding: 0;
+}
+#ctext{
+    background-color: rgb(240, 240, 229);
+}
